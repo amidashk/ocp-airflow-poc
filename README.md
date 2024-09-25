@@ -1,2 +1,2 @@
-# wynn-airflow-poc
+# ocp-airflow-poc
 This is a testing repo for Wynn Airflow POC
